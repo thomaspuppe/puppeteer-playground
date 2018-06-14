@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-playground",
+  "version": "0.0.1",
+  "description": "testing everything blog.thomaspuppe.de, as a playground for puppeteer",
+  "main": "index.js",
+  "repository": "git@github.com:thomaspuppe/puppeteer-playground.git",
+  "author": "Thomas Puppe <info@thomaspuppe.de>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
